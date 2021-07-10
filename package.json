@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass CSS/main.scss CSS/main.css"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vedant1605/Portfolio.git"
+  },
+  "author": "Vedant Jaiswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vedant1605/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Vedant1605/Portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "node-sass": "^5.0.0"
+  }
+}
